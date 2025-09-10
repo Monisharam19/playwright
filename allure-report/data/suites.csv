@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","10127","should successfully log in with valid credentials","chromium","Mon Sep 08 16:58:25 IST 2025","passed","Mon Sep 08 16:58:35 IST 2025","OrangeHRM Login Scenarios","login.test.js","",""
+"","8333","should successfully log in with valid credentials","webkit","Mon Sep 08 16:58:38 IST 2025","passed","Mon Sep 08 16:58:46 IST 2025","OrangeHRM Login Scenarios","login.test.js","",""
+"","8598","should successfully log in with valid credentials","firefox","Mon Sep 08 16:58:25 IST 2025","passed","Mon Sep 08 16:58:33 IST 2025","OrangeHRM Login Scenarios","login.test.js","",""
