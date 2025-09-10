@@ -1,0 +1,159 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - main [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e9]:
+          - generic [ref=e11]: Happening now
+          - generic [ref=e13]: Join today.
+          - generic [ref=e14]:
+            - generic [ref=e17]:
+              - iframe [ref=e18]:
+                - button "Sign up with Google. Opens in new tab" [ref=f1e3] [cursor=pointer]:
+                  - generic [ref=f1e5] [cursor=pointer]:
+                    - img [ref=f1e7] [cursor=pointer]
+                    - generic [ref=f1e13] [cursor=pointer]: Sign up with Google
+              - button "Sign in with Google. Opens in new tab" [ref=e19] [cursor=pointer]
+            - button "Sign up with Apple" [ref=e20] [cursor=pointer]:
+              - generic [ref=e21] [cursor=pointer]:
+                - img [ref=e22] [cursor=pointer]
+                - generic [ref=e26] [cursor=pointer]: Sign up with Apple
+            - generic [ref=e33]: OR
+            - link "Create account" [ref=e36] [cursor=pointer]:
+              - /url: /i/flow/signup
+              - generic [ref=e39] [cursor=pointer]: Create account
+            - generic [ref=e40]:
+              - text: By signing up, you agree to the
+              - link "Terms of Service" [ref=e41] [cursor=pointer]:
+                - /url: https://x.com/tos
+                - generic [ref=e42] [cursor=pointer]: Terms of Service
+              - text: and
+              - link "Privacy Policy" [ref=e43] [cursor=pointer]:
+                - /url: https://x.com/privacy
+                - generic [ref=e44] [cursor=pointer]: Privacy Policy
+              - text: ", including"
+              - link "Cookie Use." [ref=e45] [cursor=pointer]:
+                - /url: https://help.x.com/rules-and-policies/twitter-cookies
+                - generic [ref=e46] [cursor=pointer]: Cookie Use.
+            - generic [ref=e47]:
+              - generic [ref=e49]: Already have an account?
+              - link "Sign in" [ref=e50] [cursor=pointer]:
+                - /url: /login
+                - generic [ref=e53] [cursor=pointer]: Sign in
+          - link "Get Grok" [ref=e54] [cursor=pointer]:
+            - /url: https://grok.com/
+            - generic [ref=e55] [cursor=pointer]:
+              - img [ref=e56] [cursor=pointer]
+              - generic [ref=e61] [cursor=pointer]: Get Grok
+        - img [ref=e64]
+      - navigation "Footer" [ref=e68]:
+        - generic [ref=e69]:
+          - link "About" [ref=e70] [cursor=pointer]:
+            - /url: https://about.x.com
+            - generic [ref=e71] [cursor=pointer]: About
+          - generic [ref=e74]: "|"
+        - generic [ref=e75]:
+          - link "Download the X app" [ref=e76] [cursor=pointer]:
+            - /url: https://help.x.com/using-x/download-the-x-app
+            - generic [ref=e77] [cursor=pointer]: Download the X app
+          - generic [ref=e80]: "|"
+        - generic [ref=e81]:
+          - link "Grok" [ref=e82] [cursor=pointer]:
+            - /url: https://grok.com/
+            - generic [ref=e83] [cursor=pointer]: Grok
+          - generic [ref=e86]: "|"
+        - generic [ref=e87]:
+          - link "Help Center" [ref=e88] [cursor=pointer]:
+            - /url: https://help.x.com
+            - generic [ref=e89] [cursor=pointer]: Help Center
+          - generic [ref=e92]: "|"
+        - generic [ref=e93]:
+          - link "Terms of Service" [ref=e94] [cursor=pointer]:
+            - /url: https://x.com/tos
+            - generic [ref=e95] [cursor=pointer]: Terms of Service
+          - generic [ref=e98]: "|"
+        - generic [ref=e99]:
+          - link "Privacy Policy" [ref=e100] [cursor=pointer]:
+            - /url: https://x.com/privacy
+            - generic [ref=e101] [cursor=pointer]: Privacy Policy
+          - generic [ref=e104]: "|"
+        - generic [ref=e105]:
+          - link "Cookie Policy" [ref=e106] [cursor=pointer]:
+            - /url: https://support.x.com/articles/20170514
+            - generic [ref=e107] [cursor=pointer]: Cookie Policy
+          - generic [ref=e110]: "|"
+        - generic [ref=e111]:
+          - link "Accessibility" [ref=e112] [cursor=pointer]:
+            - /url: https://help.x.com/resources/accessibility
+            - generic [ref=e113] [cursor=pointer]: Accessibility
+          - generic [ref=e116]: "|"
+        - generic [ref=e117]:
+          - link "Ads info" [ref=e118] [cursor=pointer]:
+            - /url: https://business.x.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo
+            - generic [ref=e119] [cursor=pointer]: Ads info
+          - generic [ref=e122]: "|"
+        - generic [ref=e123]:
+          - link "Blog" [ref=e124] [cursor=pointer]:
+            - /url: https://blog.x.com
+            - generic [ref=e125] [cursor=pointer]: Blog
+          - generic [ref=e128]: "|"
+        - generic [ref=e129]:
+          - link "Careers" [ref=e130] [cursor=pointer]:
+            - /url: https://careers.x.com
+            - generic [ref=e131] [cursor=pointer]: Careers
+          - generic [ref=e134]: "|"
+        - generic [ref=e135]:
+          - link "Brand Resources" [ref=e136] [cursor=pointer]:
+            - /url: https://about.x.com/press/brand-assets
+            - generic [ref=e137] [cursor=pointer]: Brand Resources
+          - generic [ref=e140]: "|"
+        - generic [ref=e141]:
+          - link "Advertising" [ref=e142] [cursor=pointer]:
+            - /url: https://ads.x.com/?ref=gl-tw-tw-twitter-advertise
+            - generic [ref=e143] [cursor=pointer]: Advertising
+          - generic [ref=e146]: "|"
+        - generic [ref=e147]:
+          - link "Marketing" [ref=e148] [cursor=pointer]:
+            - /url: https://marketing.x.com
+            - generic [ref=e149] [cursor=pointer]: Marketing
+          - generic [ref=e152]: "|"
+        - generic [ref=e153]:
+          - link "X for Business" [ref=e154] [cursor=pointer]:
+            - /url: https://business.x.com/?ref=web-twc-ao-gbl-twitterforbusiness&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=twitterforbusiness
+            - generic [ref=e155] [cursor=pointer]: X for Business
+          - generic [ref=e158]: "|"
+        - generic [ref=e159]:
+          - link "Developers" [ref=e160] [cursor=pointer]:
+            - /url: https://developer.x.com
+            - generic [ref=e161] [cursor=pointer]: Developers
+          - generic [ref=e164]: "|"
+        - generic [ref=e165]:
+          - link "Directory" [ref=e166] [cursor=pointer]:
+            - /url: https://x.com/i/directory/profiles
+            - generic [ref=e167] [cursor=pointer]: Directory
+          - generic [ref=e170]: "|"
+        - generic [ref=e171]:
+          - link "Settings" [ref=e172] [cursor=pointer]:
+            - /url: /settings
+            - generic [ref=e173] [cursor=pointer]: Settings
+          - generic [ref=e176]: "|"
+        - generic [ref=e178]: © 2025 X Corp.
+  - iframe [active] [ref=e180]:
+    - dialog "Sign in with Google" [active] [ref=f2e4]:
+      - generic [ref=f2e5]:
+        - generic [ref=f2e6]:
+          - img [ref=f2e8]
+          - heading "Sign in with Google" [level=1] [ref=f2e13]:
+            - generic [ref=f2e14]: Sign in with Google
+        - button "Close" [ref=f2e15]:
+          - img [ref=f2e16]
+      - generic [ref=f2e18]:
+        - generic [ref=f2e19]:
+          - paragraph [ref=f2e20]: Use your Google Account to sign in to x.com
+          - paragraph [ref=f2e21]: No more passwords to remember. Signing in is fast, simple and secure.
+          - img [ref=f2e23]
+        - button "Continue" [ref=f2e55] [cursor=pointer]:
+          - generic [ref=f2e57] [cursor=pointer]: Continue
+```

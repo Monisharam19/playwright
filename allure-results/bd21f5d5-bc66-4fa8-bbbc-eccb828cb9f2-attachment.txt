@@ -1,0 +1,13 @@
+Navigated to Mercury Tours homepage
+Clicked on username field
+Filled username with: Abcd
+Clicked on password field
+Filled password with: abcd1234
+Hovered over menu item (by role): Hotels
+Hovered over menu item (by role): Destinations
+Right-clicked on menu container
+Double-clicked on Specials image
+Dragged And Dropped of Column A & Column B
+Performed precise mouse movements to draw a square
+Scrolled up and down using mouse wheel
+Test completed successfully

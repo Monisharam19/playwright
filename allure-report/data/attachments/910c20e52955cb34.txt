@@ -1,0 +1,12 @@
+JS Alert message: I am a JS Alert
+JS Alert result: You successfully clicked an alert
+JS Confirm message (dismiss): I am a JS Confirm
+JS Confirm result (dismiss): You clicked: Cancel
+JS Confirm message (accept): I am a JS Confirm
+JS Confirm result (accept): You clicked: Ok
+JS Prompt message (dismiss): I am a JS prompt
+JS Prompt result (dismiss): You entered: null
+JS Prompt message (accept): I am a JS prompt
+JS Prompt result (accept): You entered: Playwright FTW!
+JS Prompt message (empty input): I am a JS prompt
+JS Prompt result (empty input): You entered: 

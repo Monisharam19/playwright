@@ -1,0 +1,5 @@
+1. Navigated to GitHub
+2. locator selected for enter email
+2. Found logo  using CSS selector
+3. Found "Sign up for GitHub" using text selector
+4. Found login link using XPath
